@@ -264,7 +264,7 @@ authors:
       lastapproved: !!str 2020-11-03
     manuscripts:
       pathogenesis:
-        order: 6
+        order: 3
         contributions:
           - Writing - Review & Editing
       nutraceuticals:
@@ -1296,7 +1296,7 @@ authors:
       lastapproved: !!str 2021-03-26
     manuscripts:
       pathogenesis:
-        order: 0
+        order: 5
         contributions:
           - Writing - Review & Editing
   -
@@ -1367,6 +1367,6 @@ authors:
       lastapproved: !!str 2021-04-30
     manuscripts:
       pathogenesis:
-        order: 0
+        order: 6
         contributions:
           - Writing - Review & Editing
