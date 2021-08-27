@@ -1,15 +1,15 @@
 {
-  "creation_time_utc": "2021-04-28T16:40:32.756920",
-  "creation_date_pretty": "April 28, 2021",
-  "commit": "05acaf59cd3a3701df8ce0ad113773e154774d82",
-  "total_commits": 4408,
-  "manuscript_commits": 2509,
-  "review_authors": 49,
-  "github_stars": 105,
-  "github_forks": 77,
-  "merged_pull_requests": 507,
-  "declined_pull_requests": 27,
-  "open_pull_requests": 9,
-  "open_issues": 318,
-  "closed_issues": 83
+  "creation_time_utc": "2021-08-27T21:21:39.116795",
+  "creation_date_pretty": "August 27, 2021",
+  "commit": "2c88132aa6e259244b474470bfe72722f89f1683",
+  "total_commits": 4876,
+  "manuscript_commits": 2775,
+  "review_authors": 52,
+  "github_stars": 112,
+  "github_forks": 75,
+  "merged_pull_requests": 559,
+  "declined_pull_requests": 31,
+  "open_pull_requests": 8,
+  "open_issues": 332,
+  "closed_issues": 87
 }
